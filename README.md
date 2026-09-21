@@ -25,8 +25,10 @@
 
 ## Hey, I'm **zRuvix**
 
----
-Too lazy to write about me
+> *Thinking Differently*
+
+too lazy to write about me.
+
 ---
 
 ## Contributions
