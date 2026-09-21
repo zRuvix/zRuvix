@@ -1,117 +1,71 @@
-<!-- GitHub profile README for zRuvix -->
+<!-- zRuvix | README design 1: Minimal -->
 
-<!-- ── TOP PURPLE BANNER ─────────────────────────────────────────── -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=220&section=header&text=zRuvix&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Beyond%20The%20Imagination.&descSize=18&descAlignY=55&animation=fadeIn"
-    alt="zRuvix purple header banner"
-    width="100%"
-  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:a855f7&height=3&section=header" width="100%" alt="" />
+
+<br />
+
+# zRuvix
+
+**I build products with AI.**
+Plan. Design. Ship.
+
+Curious builder, 18.
+
+<br />
+
+<a href="https://zruvix.com"><img src="https://img.shields.io/badge/Website-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://x.com/zRuvix_"><img src="https://img.shields.io/badge/X-6b21a8?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://t.me/zRuvix"><img src="https://img.shields.io/badge/Telegram-5b21b6?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://discord.gg/rkJRchDy92"><img src="https://img.shields.io/badge/Discord-4c1d95?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+
+</div>
+
+<br />
+
+## About
+
+I'm curious about new stuff. If I like something, I try to build it myself.
+
+I'm not a traditional coder by background. I plan the product, design the flow, and use AI to ship things that actually work. I care more about how a thing is structured than about typing every line myself.
+
+## How I work
+
+| Plan | Design | Ship |
+| :-- | :-- | :-- |
+| Decide what the product is and what it needs to do. | Shape the flow and structure before any code exists. | Build with AI until it works, then release it. |
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-1a1030?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1a1030?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1030?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-1a1030?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Go-1a1030?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-1a1030?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-1a1030?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1030?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-1a1030?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-1a1030?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-1a1030?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-1a1030?style=flat-square&logo=openai&logoColor=c084fc" alt="AI / LLM" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=I+build+products+with+AI.;Plan.+Design.+Ship.;Curious+builder+%7C+18Y;If+I+like+it%2C+I+build+it." alt="typing animation" />
-</p>
-
-<!-- ── SOCIAL / QUICK LINKS ──────────────────────────────────────── -->
-<p align="center">
-  <a href="https://zruvix.com"><img src="https://img.shields.io/badge/Website-zruvix.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/zRuvix_"><img src="https://img.shields.io/badge/X-@zRuvix__-6b21a8?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://t.me/zRuvix"><img src="https://img.shields.io/badge/Telegram-@zRuvix-5b21b6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.gg/rkJRchDy92"><img src="https://img.shields.io/badge/Discord-Join-4c1d95?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
-## Hey, I'm **zRuvix**
-
-> *I'm just curious about new stuff. If I like something, I try to build it myself.*
-
-Not a traditional coder by background — I plan the product, design the flow, and use AI to ship things that actually work. Someone once called me an architect on day one. Fair. I care more about how a thing is structured than typing every line myself.
+## GitHub
 
 <p align="center">
-  <img
-    src="https://api.zruvix.com/v1/users/1452582810421559306/card.svg"
-    alt="zRuvix live Discord status"
-    width="380"
-  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zRuvix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=7c3aed" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRuvix&layout=compact&hide_border=true&bg_color=0d0a1a&title_color=c084fc&text_color=e9d5ff&langs_count=8" alt="Top languages" />
 </p>
 
----
+<br />
 
-## GitHub stats
+<div align="center">
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=zRuvix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a1a&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=7c3aed"
-    alt="zRuvix GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRuvix&layout=compact&hide_border=true&bg_color=0d0a1a&title_color=c084fc&text_color=e9d5ff&langs_count=8"
-    alt="zRuvix top languages"
-  />
-</p>
+<sub><i>"If it looks interesting, I want to build my own version of it."</i></sub>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zRuvix&theme=radical&hide_border=true&background=0d0a1a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=c4b5fd&sideNums=c084fc&currStreakNum=c084fc"
-    alt="zRuvix contribution streak"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:7c3aed,100:4c1d95&height=3&section=footer" width="100%" alt="" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zRuvix&bg_color=0d0a1a&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20graph"
-    alt="zRuvix contribution graph"
-    width="100%"
-  />
-</p>
-
----
-
-## Stack I reach for
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-</p>
-
----
-
-## Connect
-
-- Portfolio: [zruvix.com](https://zruvix.com)
-- X: [@zRuvix_](https://x.com/zRuvix_)
-- Telegram: [@zRuvix](https://t.me/zRuvix)
-- Discord: [Join the server](https://discord.gg/rkJRchDy92)
-
-<p align="center">
-  <em>“If it looks interesting, I want to build my own version of it.”</em>
-  <br />
-  <strong>— zRuvix</strong>
-</p>
-
-<!-- ── BOTTOM PURPLE BANNER ──────────────────────────────────────── -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:4c1d95&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn"
-    alt="zRuvix purple footer banner"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zRuvix&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
-</p>
+</div>
