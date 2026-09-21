@@ -25,10 +25,7 @@
 
 ## Hey, I'm **zRuvix**
 
-> *I'm just curious about new stuff. If I like something, I try to build it myself.*
-
-Not a traditional coder by background — I plan the product, design the flow, and use AI to ship things that actually work. Someone once called me an architect on day one. Fair. I care more about how a thing is structured than typing every line myself.
-
+Too lazy to write about me
 ---
 
 ## Contributions
